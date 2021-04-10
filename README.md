@@ -1,29 +1,30 @@
-# afda
+# README Generator
 
 ## Description
-fasd
+The purpose of this project was to use Node.js and the inquirer package to make a command line application that will generate a readme.md file based on user input. 
 
 ## Table of Contents
-        * [Licenses](#licenses)
-        * [Installation Instructions](#Installation Instructions)
-        * [Usage Guide](#Usage Guide)
-        * [Contributing Developers](#Contributors)
-        * [Tests](#Tests);
+- [Licenses](#licenses)
+- [Installation Instructions](#installation)
+- [Usage Guide](#usage)
+- [Contributing Developers](#contributing-developers)
+- [Tests](#tests)
+- [Contact](#contact)
 
 ## Licenses
 None
 
 ## Installation
-undefined
+In the command line: 1. 'npm init -y' 2. 'npm i inquirer' 3. node index.js
 
 ## Usage
-fsa
+n/a
 
 ## Contributing Developers
-af
+Anisha McDowell
 
 ## Tests
-sa
+n/a
 
 ## Contact
-ljfda | fdaf
+anishamcdowell | anishamcdowell@gmail.com
